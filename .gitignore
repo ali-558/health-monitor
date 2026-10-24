@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive
+serviceAccountKey.json
+google-services.json
+
+# Binaries & installers
+*.exe
+*.zip
+
+# Flutter
+build/
+.dart_tool/
+.idea/
+.plugin_symlinks/
+ephemeral/
+
+# OS
+.DS_Store
+Thumbs.db
